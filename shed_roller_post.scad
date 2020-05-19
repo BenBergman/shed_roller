@@ -2,7 +2,7 @@ $fn=120;
 
 
 wheel_width = 10;
-bracket_thickness = 2;
+bracket_thickness = 5;
 spacer_width = 3 + bracket_thickness;
 spacer_diameter = 13;
 axel_diameter = 8.5;
